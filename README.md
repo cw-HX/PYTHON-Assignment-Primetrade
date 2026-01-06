@@ -40,4 +40,4 @@ Notes
 
 Optional
 
-- To add TWAP, Grid, or a Streamlit UI, reply and I will scaffold those next.
+- To add TWAP, Grid, or a Streamlit UI, add request and I will add those next.
